@@ -1,18 +1,18 @@
-¡Hola! Soy Baalerica ✨
+Hi! I'm Baalerica ✨
 
-👩‍🎓 Egresada del Tecnológico Nacional de México / Campus Chihuahua II de Ingeniera en Gestión Empresarial con especialidad en Innovación y Responsabilidad Social.
+👩‍🎓 Graduated from the National Technological Institute of Mexico / Campus Chihuahua II with a degree in Business Management Engineering, specializing in Innovation and Social Responsibility.
 
-📚 Actualmente estoy estudiando la Maestría en Ingeniería Industrial con especialidad en Administración de las Operaciones Industriales.
+📚 Currently, I'm pursuing a Master's degree in Industrial Engineering with a specialization in Industrial Operations Management.
 
-💼 Trabajo como administradora del Living Lab en el Cluster de Tecnologías de Chihuahua.
+💼 I work as the administrator of the Living Lab at the Chihuahua Technology Cluster.
 
-💻 Otros de mis intereses es la programación. Estoy estudiando un diplomado de Desarrollo Web FullStack y he cursado el programa de Oracle Next Education G6.
+💻 One of my other interests is programming. I am currently studying a FullStack Web Development diploma and have completed the Oracle Next Education G6 program.
 
-🏆 También he participado en estos concursos:
+🏆 I have also participated in these competitions:
 
-    🥇 Gané el primer lugar en el concurso de CR3 en la semana académica del ITCH II en el 2022.
-    🥇 Gané a nivel local en el Innovatec 2023 en la categoría de salud.
-    🏅 Participé en el Hackathon del SHDH CUU.012 x Solana 2023 con mención honorífica.
-    🚀 Fui participante en el NASA Space Apps 2023 en el challenge "Everything Starts with Water".
-    🤖 Concursé en el Hack Knights AI Challenge de Chihuahua en el 2023.
-    🛡️ Participé en el Hackathon de TalentLand 2024 en la categoría de ciberseguridad.
+    🥇 Won first place in the CR3 contest during ITCH II's academic week in 2022.
+    🥇 Won locally in the Innovatec 2023 competition in the health category.
+    🏅 Participated in the SHDH CUU.012 x Solana 2023 Hackathon with an honorable mention.
+    🚀 Participated in the NASA Space Apps 2023 challenge "Everything Starts with Water".
+    🤖 Competed in the Hack Knights AI Challenge in Chihuahua in 2023.
+    🛡️ Participated in the TalentLand 2024 Hackathon in the cybersecurity category.
