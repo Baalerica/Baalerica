@@ -1,5 +1,8 @@
 Hi! I'm Baalerica ✨
 
+See my portfolio
+https://baalerica-portfolio.vercel.app/
+
 👩‍🎓 Graduated from the National Technological Institute of Mexico / Campus Chihuahua II with a degree in Business Management Engineering, specializing in Innovation and Social Responsibility.
 
 📚 Currently, I'm pursuing a Master's degree in Industrial Engineering with a specialization in Industrial Operations Management.
