@@ -1,7 +1,7 @@
 Hi! I'm Baalerica ✨
 
 See my portfolio
-https://baalerica-portfolio.vercel.app/
+https://www.baalerica.me/
 
 👩‍🎓 Graduated from the National Technological Institute of Mexico / Campus Chihuahua II with a degree in Business Management Engineering, specializing in Innovation and Social Responsibility.
 
